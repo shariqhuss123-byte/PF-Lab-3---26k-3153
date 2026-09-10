@@ -1,13 +1,12 @@
 # PF-Lab-3---26k-3153
 # About me
-My name is Syed Shariq Hussain. I am a software engineer student at fast
-I am interested in programming and software developmemt
+My name is Syed Shariq Hussain. I am a software engineering student at Fast. I am interested in programming and software development
 ## My programming interest
-C++
-Object-Oriented-Programming
-Software development
+1. C++
+2. Object-Oriented-Programming
+3. Software development
 ## My Hobbies
--coding
--learning
--playing games
+-Coding
+-Learning
+-Playing games
 **_I am passionate about learning programming and building my skills._**

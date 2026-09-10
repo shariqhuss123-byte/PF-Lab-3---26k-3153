@@ -10,4 +10,4 @@ Software development
 -coding
 -learning
 -playing games
-**I am passionate about learning programming and building my skills**
+**_I am passionate about learning programming and building my skills._**
